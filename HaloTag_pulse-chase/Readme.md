@@ -1,4 +1,5 @@
-This folder ('HaloTag_pulse-chase') contains matlab code used to process files and Jupyter notebook used to generate plots.
+This folder ('HaloTag_pulse-chase') contains matlab code used to process files.
+It also contains Jupyter notebook files used to generate plots and process the data ('n_calculator.ipynb' for getting #n, mean, stdev by group; 'SuperPlots_WT_KO.ipynb' for plotting)
 
 Input files are as follows: 
 - All images to be processed (.tif) were saved in a folder named "TIFs_forAnalysis". The filenames were in the format of 'fileid_channelname.tif'. 
